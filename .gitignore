@@ -1,0 +1,26 @@
+# Android
+android/.gradle/
+android/**/build/
+android/local.properties
+android/*.iml
+android/.idea/
+android/.cxx/
+android/captures/
+*.apk
+*.aab
+
+# Node
+server/node_modules/
+server/.env
+server/data/*.db
+server/data/*.db-journal
+server/data/*.db-shm
+server/data/*.db-wal
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
